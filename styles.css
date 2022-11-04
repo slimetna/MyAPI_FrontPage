@@ -271,6 +271,19 @@ button {
     margin-bottom: 20px;
 }
 
+.empty {
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    font-size: 36px;
+
+}
+
 
 
 
